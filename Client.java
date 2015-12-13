@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.net.*;
 import java.io.*;
 import java.util.*;
-
+	
 public class Client extends JFrame{
 	private static final String DEFAULT_NAME="Guest";
 	private static String name="";
